@@ -1,1 +1,3 @@
-# Stock-Price-Prediction-with-Deep-Learning
+## Stock Price Prediction with Deep Learning
+
+Predicting the stock price is always of great interest for financial business. Deep learning techniques are proved to be useful in many areas. In this project, we tried to use deep learning methods to predict the TLT price. The model used is LSTM, a effective recurrent neural network for time series data. In this report, we introduced how the original data were preprocessed for the model. Then the model architecture was described together with the hyperparameters. Model performance was then evaluated in two different time ranges. Limitations of the project and future improvement direction were discussed in the end. 
